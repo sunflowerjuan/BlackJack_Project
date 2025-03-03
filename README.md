@@ -1,18 +1,31 @@
-## Getting Started
+# BLACKJACK 21 - JAVA PROJECT
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the **Blackjack 21** project developed in Java!  
+This is a card game based on the popular Blackjack, implemented using the **MVP (Model-View-Presenter) pattern** and supporting both **offline and online modes** via **Sockets**.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📂 Project Structure
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **`src/`** → Contains the project's source code.
+- **`lib/`** → Folder for external libraries and dependencies.
+- **`bin/`** → Compiled output files generated automatically.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Features
 
-## Dependency Management
+✅ **Classic Blackjack 21** game rules.  
+✅ **MVP (Model-View-Presenter)** architecture.  
+✅ **Offline mode**: Play against the AI.  
+✅ **Online mode**: Play with other players using **Sockets**.  
+✅ **Graphical Interface with Swing** _(in development)_.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/sunflowerjuan/BlackJack_Project.git
+   ```
